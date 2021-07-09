@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently learning wireless networking.
+Also, working on software test!
 
 <!--
 **SakuraSak/SakuraSak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
